@@ -95,7 +95,7 @@
      <string notr="true">background-color: rgba(255, 255, 255, 10);</string>
     </property>
     <property name="title">
-     <string>Входные</string>
+     <string>Выходные</string>
     </property>
     <widget class="QLabel" name="label1">
      <property name="geometry">
